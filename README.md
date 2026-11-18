@@ -31,7 +31,7 @@ Check the current edition's feature availability before depending on a particula
 Keep the first trial short and unlocked while checking the selected rules.
 Test a distracting page and an essential page separately.
 
-![Cold Turkey Blocker list separating distracting websites from necessary work resources](Common/q0.png)
+![Cold Turkey Blocker list separating distracting websites from necessary work resources](Common/q0.jpg)
 
 The SelfControl reference [SCBlockEntry.h](Block%20Management/SCBlockEntry.h) represents an entry with a hostname and related fields.
 Its [BlockManager.h](Block%20Management/BlockManager.h) declares coordination state for blocking operations.
@@ -93,7 +93,7 @@ These are SelfControl concepts, not Cold Turkey configuration instructions.
 The reference [SCBlockUtilities.h](Common/Utility/SCBlockUtilities.h) distinguishes settings checks from checks for active rules.
 This is useful context when separating interface state from observed blocking behavior.
 
-![Cold Turkey session review showing active rules, scheduled work time, and break status](Common/q1.jpg)
+![Cold Turkey session review showing active rules, scheduled work time, and break status](Common/q1.png)
 
 For questions about ending a locked session, use the documented conditions for that lock.
 Review the intended duration and essential access before starting another session.
